@@ -23,7 +23,7 @@ const database = {
 // app.use(cors());
 
 // app.get("/", (req, res) => {
-//   res.send("Hello world");
+//   res.send("Penambahan Fitur");
 // });
 
 // app.listen(PORT, () => {
